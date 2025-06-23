@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fleangaurav.medium.com%2Fbest-programming-language-for-coding-interviews-9e984195127d&psig=AOvVaw1jzUhAdvP6a9Kg-eoykyMI&ust=1750788315999000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPj1zPeQiI4DFQAAAAAdAAAAABAj)
+
 <h1 align="center">Hi 👋, I'm Hasanuyar</h1>
 <h3 align="center">A passionate Web3 developer from Türkiye</h3>
 
