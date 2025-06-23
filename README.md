@@ -13,3 +13,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanuyar&show_icons=true&locale=en" alt="hasanuyar" /></p>
 
+
+![snake gif](https://github.com/Hasanuyar/Hasanuyar/blob/output/github-contribution-grid-snake.gif)
